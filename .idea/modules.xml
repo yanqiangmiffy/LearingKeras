@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LearingKeras.iml" filepath="$PROJECT_DIR$/.idea/LearingKeras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LearningKeras.iml" filepath="$PROJECT_DIR$/.idea/LearningKeras.iml" />
     </modules>
   </component>
 </project>
